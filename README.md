@@ -18,7 +18,7 @@ This is a simple starter project which will deploy the following resources to Az
 
 ## Azure Bicep
 
-As the focus of this repository is to demonstrate Azure Bicep, the Infrastructure as code templates can be reviewed in `infrastucture` directory.
+As the focus of this repository is to demonstrate Azure Bicep, the Infrastructure as code templates can be reviewed in `infrastucture` directory. The below images demonstrates the Bicep modules structure which has been defined.
 
 ![Infrastructure diagram](assets/infra.png "Infrastructure")
 
