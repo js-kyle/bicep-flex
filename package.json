@@ -1,0 +1,12 @@
+{
+  "name": "bicepflex",
+  "version": "1.0.0",
+  "main": "src/functions/**/index.js",
+  "dependencies": {
+    "@azure/functions": "^4.0.0-alpha.11",
+    "mongoose": "^7.4.3"
+  },
+  "devDependencies": {
+    "azure-functions-core-tools": "^4.x"
+  }
+}
