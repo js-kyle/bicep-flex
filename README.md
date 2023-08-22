@@ -26,6 +26,10 @@ As the focus of this repository is to demonstrate Azure Bicep, the Infrastructur
 
 ![Infrastructure diagram](assets/infra.png "Infrastructure")
 
+Once deployed, the resources will be available in Azure, and ready to consume over HTTP.
+
+![Infrastructure diagram](assets/infra2.png "Infrastructure2")
+
 ## Installation
 
 Install project dependencies using Yarn
