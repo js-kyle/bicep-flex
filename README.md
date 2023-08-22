@@ -5,15 +5,19 @@ This is an example project which deploys infrastucture using Azure Bicep.
 This is a simple starter project which will deploy the following resources to Azure:
 
 - Azure API Gateway (Consumption tier)
+
   This publishes the API to the internet and upholds the API contract defined in `bicep-flex/orders-openapi.yaml`.
 
 - Azure CosmosDB (MongoDB API)
+
   This is a minimal SKU Cosmos which is used to demonstrate functionality within the Orders API
 
 - Azure Function (Consumption tier)
+
   A basic JavaScript Azure Function which connects to the Azure CosmosDB data source for CRUD operations
 
 - Azure Blob Storage
+
   A blob storage account, required as a dependency of Azure Functions.
 
 ## Azure Bicep
